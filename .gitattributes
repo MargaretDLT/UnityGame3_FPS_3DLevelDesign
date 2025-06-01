@@ -1,0 +1,10 @@
+# Normalize line endings for all text files
+* text=auto
+
+# Treat Unity YAML files as text (these are the asset files inside ProjectSettings and Assets)
+*.asset text
+*.meta text
+*.prefab text
+*.unity text
+*.css text eol=lf
+*.html text eol=lf
