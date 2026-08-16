@@ -9,33 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 3cb8fa59503e8184b8bbc1d14bffb2ef
   - enabled: 1
-    path: Assets/Scenes/ExampleGame.unity
-    guid: cf8af1738c3cb4b488b72c399f7898f8
-  - enabled: 1
-    path: Assets/Scenes/Starter_Room.unity
-    guid: 96074c919a02b4c429aabdb3b4a9d038
-  - enabled: 1
-    path: Assets/Scenes/GameScene.unity
-    guid: d4df6a9fa6ce5424182fae2104c82b99
-  - enabled: 1
-    path: Assets/Scenes/Module09.unity
-    guid: 6d1c951ae4825e64fb0e897425b46047
-  - enabled: 1
-    path: Assets/Scenes/Module10.unity
-    guid: b1ed44891fb6fc546bb9e19f48f58d9c
-  - enabled: 1
-    path: Assets/Scenes/Module11.unity
-    guid: 4192db661eff0544883a52b5f5906357
-  - enabled: 1
-    path: Assets/Scenes/Module12.unity
-    guid: c50109b061f006845a935db882016ef1
-  - enabled: 1
-    path: Assets/Scenes/Module13.unity
-    guid: 43f0935f4370fe648a495d247ab8d128
-  - enabled: 1
-    path: Assets/Scenes/Module14.unity
-    guid: 11b13586d388f124fa6fa419a783d199
-  - enabled: 1
     path: Assets/Scenes/Module15.unity
     guid: f959111670390f943990cc9459f8ec3b
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
